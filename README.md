@@ -5,6 +5,8 @@ If used, please cite the iScience paper below
 Spreadsheets with data from Maron et al, iScience (2021)
 https://doi.org/10.1016/j.isci.2021.102971
 
+To download, click on the file and select "View Raw".
+
 Supplemental Table S1 - Transcriptomic and Proteomic Consequence of Type I and PRMT5 inhibition, related to Figure 4. Sheets 1 and 2 highlight transcriptomic changes promoted by either GSK591 or MS023 treatment relative to DMSO, respectively, as determined by DESeq2. Sheets 3 and 4 demonstrate proteomic changes promoted by either GSK591 or MS023 treatment relative to DMSO, respectively, as determined by either trypsin or GluC digestion.
 
 Supplemental Table S2 - PTMScan identified methylarginine modified residues, related to Figures 3, 6, 7, and 8. PTMScan identified methylarginine modified residues from either trypsin or GluC digests with IDR information
